@@ -1,5 +1,5 @@
 # what-bot-is-this
-Bot WhatsApp menggunakan JavaScript
+Bot WhatsApp menggunakan TypeScript
 
 Todo:
 - Tambahkan beberapa command sederhana agar bot ini dapat digunakan
